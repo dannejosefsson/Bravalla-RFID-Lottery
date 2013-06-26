@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bråvalla RFID Lottery</string>
+    <string name="action_settings">Settings</string>
+    <string name="result"></string>
+    <string name="rfid">Please read RFID</string>
+
+</resources>
